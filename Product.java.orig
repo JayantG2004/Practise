@@ -22,5 +22,8 @@ public class Product {
 		p1.display();
 	}
 }
+<<<<<<< HEAD
 //Added in master
+=======
 //Code in master branch
+>>>>>>> bugfix
