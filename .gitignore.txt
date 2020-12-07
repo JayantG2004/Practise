@@ -1,4 +1,0 @@
-Product.java
-Product1.java
-
-.gitignore
